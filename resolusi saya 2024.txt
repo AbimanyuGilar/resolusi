@@ -3,3 +3,5 @@ Berikut resolusi saya di sisa tahun 2024 ini
 - belajar ai
 - belajar php
 - belajar laravel
+- belajar js
+- belajar nodejs
